@@ -1,0 +1,6 @@
+Haqi, 22, 08987878778, IT Support, false, Jakarta, 5000000.0, 3346123451, 9-29-2017, Siti Rohimah, 33, Marketing
+Dea, 22, 0878124522, Web Developer, false, Depok, 4500000.0, 4123455869, 9-29-2017, Siti Bengkulu, 31, Production
+Desy, 21, 08976229996, UI/UX Designer, false, Depok, 4500000.0, 4313111009, 9-29-2017, Siti Bengkoang, 30, Finance
+Sans, 22, 07787334298, Network Engineer, false, Bekasi, 4000000.0, 4313111024, 9-1-2017, Ujang Budak, 40, Marketing
+Rama, 22, 09992123211, Network Engineer, false, Bekasi, 4000000.0, 4313111020, 7-20-2017, Budak Selfie, 42, Finance
+Ajid, 24, 08124345901, Sipil Engineer, false, Bekasi, 5000000.0, 4313111203, 10-1-2017, Heloluya, 38, Production
